@@ -1,0 +1,6 @@
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Eileen\School 23-24\cis4930\esep-webhooks\esepwebhook\src\esepwebhook\bin\Release\net8.0\publish\EsepWebhook.dll
